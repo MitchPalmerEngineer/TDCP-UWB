@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+   <name>UWB-TDCP_Field_test_GooglePixel7Pro_ADRPosComputed_UUT2.kml</name>:
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blu-stars">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-stars</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-stars</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blue-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blue-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blue-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blue-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blue-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blue-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_red-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_red-stars">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-stars</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-stars</styleUrl>
+		</Pair>
+   </StyleMap>
+	   	<Style id="s_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+   </Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_blu-stars">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_blue-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_blue-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_red-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_red-stars">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+	         <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_blu-stars">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_blue-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_blue-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_noicon">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_red-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_red-stars">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+    <Placemark>
+      <name>16.38.00</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>0
+16.38.00
+51.0810108,-114.1344773
+AltWgs84 1098.40</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134477260900,51.081010836095,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.01</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>1
+16.38.01
+51.0810115,-114.1344749
+AltWgs84 1098.40</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134474911944,51.081011479646,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.02</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>2
+16.38.02
+51.0810118,-114.1344689
+AltWgs84 1098.90</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134468887992,51.081011827118,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.03</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>3
+16.38.03
+51.0810125,-114.1344609
+AltWgs84 1099.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134460861755,51.081012538885,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.04</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>4
+16.38.04
+51.0810118,-114.1344473
+AltWgs84 1099.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134447266710,51.081011792420,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.05</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>5
+16.38.05
+51.0810103,-114.1344345
+AltWgs84 1099.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134434519630,51.081010334685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.06</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>6
+16.38.06
+51.0810079,-114.1344207
+AltWgs84 1099.20</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134420698292,51.081007866957,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.07</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>7
+16.38.07
+51.0810052,-114.1344061
+AltWgs84 1099.20</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134406122305,51.081005229144,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.08</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>8
+16.38.08
+51.0810020,-114.1343918
+AltWgs84 1099.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134391815533,51.081002024896,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.09</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>9
+16.38.09
+51.0809976,-114.1343788
+AltWgs84 1099.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134378779201,51.080997628661,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.10</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>10
+16.38.10
+51.0809916,-114.1343656
+AltWgs84 1099.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134365647757,51.080991570247,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.11</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>11
+16.38.11
+51.0809850,-114.1343535
+AltWgs84 1099.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134353464802,51.080985040588,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.12</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>12
+16.38.12
+51.0809779,-114.1343415
+AltWgs84 1099.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134341536067,51.080977879484,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.13</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>13
+16.38.13
+51.0809703,-114.1343304
+AltWgs84 1099.20</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134330435504,51.080970324970,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.14</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>14
+16.38.14
+51.0809626,-114.1343230
+AltWgs84 1099.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134322994866,51.080962595338,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.15</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>15
+16.38.15
+51.0809551,-114.1343174
+AltWgs84 1099.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134317350160,51.080955118665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.16</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>16
+16.38.16
+51.0809464,-114.1343122
+AltWgs84 1099.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134312240551,51.080946388847,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.17</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>17
+16.38.17
+51.0809391,-114.1343086
+AltWgs84 1099.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134308554796,51.080939073750,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.18</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>18
+16.38.18
+51.0809285,-114.1343053
+AltWgs84 1099.20</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134305258045,51.080928509203,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.19</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>19
+16.38.19
+51.0809175,-114.1343006
+AltWgs84 1099.20</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134300632481,51.080917472174,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.20</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>20
+16.38.20
+51.0809063,-114.1342957
+AltWgs84 1099.20</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134295659705,51.080906259117,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.21</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>21
+16.38.21
+51.0808956,-114.1342906
+AltWgs84 1099.20</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134290620449,51.080895609571,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.22</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>22
+16.38.22
+51.0808849,-114.1342858
+AltWgs84 1099.30</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134285846829,51.080884887181,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.23</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>23
+16.38.23
+51.0808737,-114.1342809
+AltWgs84 1099.30</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134280862083,51.080873690490,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.24</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>24
+16.38.24
+51.0808620,-114.1342757
+AltWgs84 1099.30</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134275668862,51.080861952065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.25</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>25
+16.38.25
+51.0808506,-114.1342706
+AltWgs84 1099.40</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134270564151,51.080850564345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.26</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>26
+16.38.26
+51.0808397,-114.1342655
+AltWgs84 1099.40</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134265549684,51.080839746181,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.27</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>27
+16.38.27
+51.0808287,-114.1342605
+AltWgs84 1099.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134260523686,51.080828670965,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.28</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>28
+16.38.28
+51.0808174,-114.1342545
+AltWgs84 1099.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134254518069,51.080817389932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.29</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>29
+16.38.29
+51.0808064,-114.1342485
+AltWgs84 1099.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134248501787,51.080806431473,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.30</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>30
+16.38.30
+51.0807955,-114.1342411
+AltWgs84 1099.60</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134241111648,51.080795527349,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.31</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>31
+16.38.31
+51.0807854,-114.1342328
+AltWgs84 1099.60</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134232772240,51.080785354479,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.32</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>32
+16.38.32
+51.0807750,-114.1342252
+AltWgs84 1099.60</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134225155045,51.080775049040,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.33</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>33
+16.38.33
+51.0807641,-114.1342185
+AltWgs84 1099.70</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134218529669,51.080764130027,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.34</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>34
+16.38.34
+51.0807531,-114.1342132
+AltWgs84 1099.70</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134213207864,51.080753097891,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.35</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>35
+16.38.35
+51.0807426,-114.1342078
+AltWgs84 1099.70</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134207848043,51.080742633410,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.36</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>36
+16.38.36
+51.0807317,-114.1342027
+AltWgs84 1099.80</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134202667033,51.080731669554,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.37</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>37
+16.38.37
+51.0807213,-114.1341962
+AltWgs84 1099.80</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134196235954,51.080721272587,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.38</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>38
+16.38.38
+51.0807113,-114.1341889
+AltWgs84 1099.80</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134188883135,51.080711305001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.39</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>39
+16.38.39
+51.0807013,-114.1341814
+AltWgs84 1099.90</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134181388200,51.080701289321,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.40</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>40
+16.38.40
+51.0806911,-114.1341741
+AltWgs84 1099.90</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134174111684,51.080691105033,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.41</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>41
+16.38.41
+51.0806809,-114.1341681
+AltWgs84 1099.90</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134168128883,51.080680924979,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.42</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>42
+16.38.42
+51.0806705,-114.1341633
+AltWgs84 1099.90</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134163278143,51.080670466180,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.43</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>43
+16.38.43
+51.0806592,-114.1341588
+AltWgs84 1099.90</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134158834871,51.080659192451,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.44</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>44
+16.38.44
+51.0806481,-114.1341546
+AltWgs84 1099.90</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134154600120,51.080648149658,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.45</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>45
+16.38.45
+51.0806374,-114.1341497
+AltWgs84 1100.00</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134149680103,51.080637362970,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.46</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>46
+16.38.46
+51.0806274,-114.1341450
+AltWgs84 1100.00</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134145032580,51.080627402526,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.47</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>47
+16.38.47
+51.0806161,-114.1341401
+AltWgs84 1100.00</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134140141241,51.080616098787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.48</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>48
+16.38.48
+51.0806049,-114.1341365
+AltWgs84 1100.00</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134136488079,51.080604932884,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.49</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>49
+16.38.49
+51.0805935,-114.1341333
+AltWgs84 1100.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134133284561,51.080593460635,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.50</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>50
+16.38.50
+51.0805820,-114.1341300
+AltWgs84 1100.10</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134130034309,51.080581986246,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.51</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>51
+16.38.51
+51.0805706,-114.1341261
+AltWgs84 1100.20</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134126100396,51.080570643121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.52</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>52
+16.38.52
+51.0805592,-114.1341227
+AltWgs84 1100.20</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134122712975,51.080559246020,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.53</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>53
+16.38.53
+51.0805478,-114.1341197
+AltWgs84 1100.20</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134119705648,51.080547782067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.54</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>54
+16.38.54
+51.0805355,-114.1341162
+AltWgs84 1100.30</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134116197362,51.080535474194,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.55</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>55
+16.38.55
+51.0805229,-114.1341132
+AltWgs84 1100.30</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134113221539,51.080522908000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.56</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>56
+16.38.56
+51.0805104,-114.1341105
+AltWgs84 1100.30</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134110519422,51.080510419100,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.57</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>57
+16.38.57
+51.0804976,-114.1341083
+AltWgs84 1100.30</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134108349103,51.080497574730,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.58</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>58
+16.38.58
+51.0804853,-114.1341071
+AltWgs84 1100.40</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134107096327,51.080485284546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.38.59</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>59
+16.38.59
+51.0804735,-114.1341066
+AltWgs84 1100.40</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134106581830,51.080473477448,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.00</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>60
+16.39.00
+51.0804614,-114.1341072
+AltWgs84 1100.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134107165192,51.080461430287,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.01</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>61
+16.39.01
+51.0804495,-114.1341070
+AltWgs84 1100.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134107010211,51.080449538142,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.02</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>62
+16.39.02
+51.0804375,-114.1341068
+AltWgs84 1100.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134106833889,51.080437475469,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.03</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>63
+16.39.03
+51.0804260,-114.1341047
+AltWgs84 1100.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134104700441,51.080425995840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.04</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>64
+16.39.04
+51.0804163,-114.1340993
+AltWgs84 1100.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134099342314,51.080416345735,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.05</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>65
+16.39.05
+51.0804106,-114.1340921
+AltWgs84 1100.20</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134092129258,51.080410559883,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.06</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>66
+16.39.06
+51.0804093,-114.1340857
+AltWgs84 1099.60</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134085658445,51.080409307045,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.07</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>67
+16.39.07
+51.0804101,-114.1340730
+AltWgs84 1099.60</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134073003365,51.080410102153,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.08</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>68
+16.39.08
+51.0804153,-114.1340610
+AltWgs84 1099.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134060970901,51.080415299952,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.09</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>69
+16.39.09
+51.0804238,-114.1340528
+AltWgs84 1099.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134052761670,51.080423774933,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.10</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>70
+16.39.10
+51.0804332,-114.1340490
+AltWgs84 1099.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134048985177,51.080433214220,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.11</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>71
+16.39.11
+51.0804431,-114.1340465
+AltWgs84 1099.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134046499287,51.080443070738,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.12</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>72
+16.39.12
+51.0804523,-114.1340447
+AltWgs84 1099.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134044742682,51.080452288431,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.13</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>73
+16.39.13
+51.0804629,-114.1340453
+AltWgs84 1099.40</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134045273903,51.080462874067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.14</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>74
+16.39.14
+51.0804728,-114.1340453
+AltWgs84 1099.40</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134045250123,51.080472803769,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.15</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>75
+16.39.15
+51.0804829,-114.1340454
+AltWgs84 1099.40</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134045438741,51.080482934473,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.16</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>76
+16.39.16
+51.0804940,-114.1340448
+AltWgs84 1099.30</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134044765120,51.080493963165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.17</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>77
+16.39.17
+51.0805049,-114.1340451
+AltWgs84 1099.30</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134045059643,51.080504882941,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.19</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>78
+16.39.19
+51.0805257,-114.1340443
+AltWgs84 1099.50</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134044328157,51.080525696319,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.20</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>79
+16.39.20
+51.0805359,-114.1340429
+AltWgs84 1099.40</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134042901412,51.080535886549,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.21</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>80
+16.39.21
+51.0805464,-114.1340407
+AltWgs84 1099.40</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134040696537,51.080546406728,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16.39.22</name>
+      <Snippet maxLines="0"> </Snippet>
+      <description>81
+16.39.22
+51.0805574,-114.1340371
+AltWgs84 1099.30</description>
+      <styleUrl>#msn_blue-pushpin</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-114.134037102542,51.080557413574,0</coordinates>
+      </Point>
+    </Placemark>
+   </Document>
+</kml>
