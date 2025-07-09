@@ -7,6 +7,9 @@ Collected on March 25, 2025 at the University of Calgary by Mitch Palmer, M.Sc. 
 - UWB observations collected using Android Jetpack Core Ultra-Wideband (see https://developer.android.com/jetpack/androidx/releases/core-uwb), custom application built with Android Studio.
 - Real-Time Kinematic (RTK) precise GNSS used to observe reference trajectories with 3x Trimble R10, continuous topographic RTK survey with base over known monument.
 
+# Thesis Link
+https://ucalgary.scholaris.ca/items/5196ae2d-e91f-4533-b914-3be5c02ca8f1
+
 # Contents
 - **data/tdcp_uwb_all_data.csv**: comma-delimited "per-epoch" file containing all data
 - **data/UWB-TDCP_Field_test.json**: JSON-formatted "per-epoch" file containing all data
